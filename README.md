@@ -2,6 +2,13 @@
 
 A simple password generator application built with **React** and **Vite**. This app allows users to generate secure passwords based on their preferred criteria, including the inclusion of numbers, characters, and password length.
 
+## 🌐 Deployment
+
+The project is deployed using **Vercel**.
+
+> 🔗 [Live Deployement](https://password-genarator-git-main-mayank2617s-projects.vercel.app/)
+
+
 ## Features
 
 - **Generate Secure Passwords**: Create strong and random passwords.
